@@ -1,3 +1,3 @@
 module "demomodule" {
-  source = "git::https://github.com/vasugupta32/terraform-git.git"
+  source = "git::https://github.com/zealvora/tmp-repo.git"
 }
